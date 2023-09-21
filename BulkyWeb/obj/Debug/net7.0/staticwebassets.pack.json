@@ -1,0 +1,401 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/obj/Debug/net7.0/scopedcss/projectbundle/BulkyWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets/BulkyWeb.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/0cbef8fb-ce52-4154-b10d-c210db09d822.jpg",
+      "PackagePath": "staticwebassets/Images/Product/0cbef8fb-ce52-4154-b10d-c210db09d822.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/137aab78-3a05-442f-8846-edaba6ccc83b.jpg",
+      "PackagePath": "staticwebassets/Images/Product/137aab78-3a05-442f-8846-edaba6ccc83b.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/1469e771-3cf3-4771-802c-989ae9da3643.jpg",
+      "PackagePath": "staticwebassets/Images/Product/1469e771-3cf3-4771-802c-989ae9da3643.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/3dc6d7a8-d232-499c-a26d-5723e3e73e91.jpg",
+      "PackagePath": "staticwebassets/Images/Product/3dc6d7a8-d232-499c-a26d-5723e3e73e91.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/41e68d9b-33a8-42c6-88b9-f845495c26a5.jpg",
+      "PackagePath": "staticwebassets/Images/Product/41e68d9b-33a8-42c6-88b9-f845495c26a5.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/427ab95f-bdea-48c5-b96b-e64fe67f7b1b.jpg",
+      "PackagePath": "staticwebassets/Images/Product/427ab95f-bdea-48c5-b96b-e64fe67f7b1b.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/427f44d2-c5f9-4656-b1c3-c87702499c3b.jpg",
+      "PackagePath": "staticwebassets/Images/Product/427f44d2-c5f9-4656-b1c3-c87702499c3b.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/4e0d7872-d4ca-4779-be68-6127467a678f.jpg",
+      "PackagePath": "staticwebassets/Images/Product/4e0d7872-d4ca-4779-be68-6127467a678f.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/58cfb661-0cb7-46c6-b8c7-909b93bc3be1.jpg",
+      "PackagePath": "staticwebassets/Images/Product/58cfb661-0cb7-46c6-b8c7-909b93bc3be1.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/6a594b28-d70c-424b-b74f-a7a2d24c4c27.jpg",
+      "PackagePath": "staticwebassets/Images/Product/6a594b28-d70c-424b-b74f-a7a2d24c4c27.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/83216ca0-c7fb-4615-bebf-04fc6ca6a763.jpg",
+      "PackagePath": "staticwebassets/Images/Product/83216ca0-c7fb-4615-bebf-04fc6ca6a763.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/8663578d-51ab-4f83-b469-b71abc96790b.jpg",
+      "PackagePath": "staticwebassets/Images/Product/8663578d-51ab-4f83-b469-b71abc96790b.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/9027b2a2-ed71-475a-8f55-08be5030793f.jpg",
+      "PackagePath": "staticwebassets/Images/Product/9027b2a2-ed71-475a-8f55-08be5030793f.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/96d13a51-93a5-4498-8b5a-d6fec88140ac.jpg",
+      "PackagePath": "staticwebassets/Images/Product/96d13a51-93a5-4498-8b5a-d6fec88140ac.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/9742cf96-e491-4a2c-bf54-3f788845566c.jpg",
+      "PackagePath": "staticwebassets/Images/Product/9742cf96-e491-4a2c-bf54-3f788845566c.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/9d4e5c93-a382-4d5a-9f22-c3be43fdb48d.jpg",
+      "PackagePath": "staticwebassets/Images/Product/9d4e5c93-a382-4d5a-9f22-c3be43fdb48d.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/a61e3506-7338-41d9-bb91-ab89f953a9dc.jpg",
+      "PackagePath": "staticwebassets/Images/Product/a61e3506-7338-41d9-bb91-ab89f953a9dc.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/a8e222f0-a43c-4065-9b95-2bdf8cd38997.jpg",
+      "PackagePath": "staticwebassets/Images/Product/a8e222f0-a43c-4065-9b95-2bdf8cd38997.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/bd78ffee-5463-4807-a146-3a63e75a4adc.jpg",
+      "PackagePath": "staticwebassets/Images/Product/bd78ffee-5463-4807-a146-3a63e75a4adc.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/c612137d-63c8-49b5-91c9-5ffd5cf28128.jpg",
+      "PackagePath": "staticwebassets/Images/Product/c612137d-63c8-49b5-91c9-5ffd5cf28128.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/c8073dba-5025-472f-92f8-f60a6c5f3016.jpg",
+      "PackagePath": "staticwebassets/Images/Product/c8073dba-5025-472f-92f8-f60a6c5f3016.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/cf70328d-b477-44c7-8041-da4ff392247b.jpg",
+      "PackagePath": "staticwebassets/Images/Product/cf70328d-b477-44c7-8041-da4ff392247b.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/d048a254-bf43-4498-926d-4d18154b60b0.jpg",
+      "PackagePath": "staticwebassets/Images/Product/d048a254-bf43-4498-926d-4d18154b60b0.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/d3b8148e-7f74-4675-a00e-d583aa3da0f0.jpg",
+      "PackagePath": "staticwebassets/Images/Product/d3b8148e-7f74-4675-a00e-d583aa3da0f0.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/d5f60c20-7f0a-4b58-8a0d-cecdc12df295.jpg",
+      "PackagePath": "staticwebassets/Images/Product/d5f60c20-7f0a-4b58-8a0d-cecdc12df295.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/d65df297-eacb-4c2a-8cb6-95469d561b3b.jpg",
+      "PackagePath": "staticwebassets/Images/Product/d65df297-eacb-4c2a-8cb6-95469d561b3b.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/dbdb936c-a5f4-4e0d-b165-dbbe4022ca75.jpg",
+      "PackagePath": "staticwebassets/Images/Product/dbdb936c-a5f4-4e0d-b165-dbbe4022ca75.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/ec61dc28-7a1c-4ca8-a026-6f783cfec695.jpg",
+      "PackagePath": "staticwebassets/Images/Product/ec61dc28-7a1c-4ca8-a026-6f783cfec695.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/Product/f951101c-ad0b-4ced-8c87-19420bf9d310.jpg",
+      "PackagePath": "staticwebassets/Images/Product/f951101c-ad0b-4ced-8c87-19420bf9d310.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/book.png",
+      "PackagePath": "staticwebassets/Images/book.png"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/Images/lawn_leaf.jpg",
+      "PackagePath": "staticwebassets/Images/lawn_leaf.jpg"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/js/company.js",
+      "PackagePath": "staticwebassets/js/company.js"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/js/order.js",
+      "PackagePath": "staticwebassets/js/order.js"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/js/product.js",
+      "PackagePath": "staticwebassets/js/product.js"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.BulkyWeb.props",
+      "PackagePath": "build\\BulkyWeb.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BulkyWeb.props",
+      "PackagePath": "buildMultiTargeting\\BulkyWeb.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BulkyWeb.props",
+      "PackagePath": "buildTransitive\\BulkyWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

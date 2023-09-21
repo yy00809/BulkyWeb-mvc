@@ -1,0 +1,14 @@
+/Users/yangyige/Projects/BulkyWeb/Bulky.Models/bin/Debug/net7.0/Bulky.Models.deps.json
+/Users/yangyige/Projects/BulkyWeb/Bulky.Models/bin/Debug/net7.0/Bulky.Models.runtimeconfig.json
+/Users/yangyige/Projects/BulkyWeb/Bulky.Models/bin/Debug/net7.0/Bulky.Models.dll
+/Users/yangyige/Projects/BulkyWeb/Bulky.Models/bin/Debug/net7.0/Bulky.Models.pdb
+/Users/yangyige/Projects/BulkyWeb/Bulky.Models/obj/Debug/net7.0/Bulky.Models.csproj.AssemblyReference.cache
+/Users/yangyige/Projects/BulkyWeb/Bulky.Models/obj/Debug/net7.0/Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yangyige/Projects/BulkyWeb/Bulky.Models/obj/Debug/net7.0/Bulky.Models.AssemblyInfoInputs.cache
+/Users/yangyige/Projects/BulkyWeb/Bulky.Models/obj/Debug/net7.0/Bulky.Models.AssemblyInfo.cs
+/Users/yangyige/Projects/BulkyWeb/Bulky.Models/obj/Debug/net7.0/Bulky.Models.csproj.CoreCompileInputs.cache
+/Users/yangyige/Projects/BulkyWeb/Bulky.Models/obj/Debug/net7.0/Bulky.Models.dll
+/Users/yangyige/Projects/BulkyWeb/Bulky.Models/obj/Debug/net7.0/refint/Bulky.Models.dll
+/Users/yangyige/Projects/BulkyWeb/Bulky.Models/obj/Debug/net7.0/Bulky.Models.pdb
+/Users/yangyige/Projects/BulkyWeb/Bulky.Models/obj/Debug/net7.0/Bulky.Models.genruntimeconfig.cache
+/Users/yangyige/Projects/BulkyWeb/Bulky.Models/obj/Debug/net7.0/ref/Bulky.Models.dll

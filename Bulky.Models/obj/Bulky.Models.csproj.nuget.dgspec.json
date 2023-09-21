@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yangyige/Projects/BulkyWeb/Bulky.Models/Bulky.Models.csproj": {}
+    "/Users/yangyige/Documents/GitHub/BulkyWeb-mvc/Bulky.Models/Bulky.Models.csproj": {}
   },
   "projects": {
-    "/Users/yangyige/Projects/BulkyWeb/Bulky.Models/Bulky.Models.csproj": {
+    "/Users/yangyige/Documents/GitHub/BulkyWeb-mvc/Bulky.Models/Bulky.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yangyige/Projects/BulkyWeb/Bulky.Models/Bulky.Models.csproj",
+        "projectUniqueName": "/Users/yangyige/Documents/GitHub/BulkyWeb-mvc/Bulky.Models/Bulky.Models.csproj",
         "projectName": "Bulky.Models",
-        "projectPath": "/Users/yangyige/Projects/BulkyWeb/Bulky.Models/Bulky.Models.csproj",
+        "projectPath": "/Users/yangyige/Documents/GitHub/BulkyWeb-mvc/Bulky.Models/Bulky.Models.csproj",
         "packagesPath": "/Users/yangyige/.nuget/packages/",
-        "outputPath": "/Users/yangyige/Projects/BulkyWeb/Bulky.Models/obj/",
+        "outputPath": "/Users/yangyige/Documents/GitHub/BulkyWeb-mvc/Bulky.Models/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yangyige/.nuget/NuGet/NuGet.Config"

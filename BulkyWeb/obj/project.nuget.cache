@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KX+MivI0X1WxULdQKD8og7TWQzgMM3y5v92adn8k18z6Rqz/G5evuKuAj+OVrA1S5/yavrNcLp2yHj0ga71uQQ==",
+  "dgSpecHash": "zgrRiNNKMOd0FGP0OV9SbIgF5ttXregNb4JeoQFGggQ8CVHzDCiWf9V/G6/R/ujD2I1fBIB21EtpQGXG30u70A==",
   "success": true,
-  "projectFilePath": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/BulkyWeb.csproj",
+  "projectFilePath": "/Users/yangyige/Documents/GitHub/BulkyWeb-mvc/BulkyWeb/BulkyWeb.csproj",
   "expectedPackageFiles": [
     "/Users/yangyige/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/yangyige/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",

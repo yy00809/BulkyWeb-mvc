@@ -13003,11 +13003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yangyige/Projects/BulkyWeb/Bulky.DataAccess/Bulky.DataAccess.csproj",
+      "projectUniqueName": "/Users/yangyige/Documents/GitHub/BulkyWeb-mvc/Bulky.DataAccess/Bulky.DataAccess.csproj",
       "projectName": "Bulky.DataAccess",
-      "projectPath": "/Users/yangyige/Projects/BulkyWeb/Bulky.DataAccess/Bulky.DataAccess.csproj",
+      "projectPath": "/Users/yangyige/Documents/GitHub/BulkyWeb-mvc/Bulky.DataAccess/Bulky.DataAccess.csproj",
       "packagesPath": "/Users/yangyige/.nuget/packages/",
-      "outputPath": "/Users/yangyige/Projects/BulkyWeb/Bulky.DataAccess/obj/",
+      "outputPath": "/Users/yangyige/Documents/GitHub/BulkyWeb-mvc/Bulky.DataAccess/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yangyige/.nuget/NuGet/NuGet.Config"
@@ -13022,11 +13022,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/yangyige/Projects/BulkyWeb/Bulky.Models/Bulky.Models.csproj": {
-              "projectPath": "/Users/yangyige/Projects/BulkyWeb/Bulky.Models/Bulky.Models.csproj"
+            "/Users/yangyige/Documents/GitHub/BulkyWeb-mvc/Bulky.Models/Bulky.Models.csproj": {
+              "projectPath": "/Users/yangyige/Documents/GitHub/BulkyWeb-mvc/Bulky.Models/Bulky.Models.csproj"
             },
-            "/Users/yangyige/Projects/BulkyWeb/Bulky.Utility/Bulky.Utility.csproj": {
-              "projectPath": "/Users/yangyige/Projects/BulkyWeb/Bulky.Utility/Bulky.Utility.csproj"
+            "/Users/yangyige/Documents/GitHub/BulkyWeb-mvc/Bulky.Utility/Bulky.Utility.csproj": {
+              "projectPath": "/Users/yangyige/Documents/GitHub/BulkyWeb-mvc/Bulky.Utility/Bulky.Utility.csproj"
             }
           }
         }

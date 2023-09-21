@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hbUbMJm7foOr0EivCUlJEjNa/t/fnBwhpl8teR6k3n8go/yEhnywgMwiII8PmCAcN5bIYXQCuuzSHCVdUArWsA==",
+  "dgSpecHash": "smwIw+Bt3qYk+ajnAewttmNfSvtCIwcIdEXynIJPunJ0czLTfa3RzLHlZyvp57CRCuBhf96uHca0k6W9ozPV8A==",
   "success": true,
-  "projectFilePath": "/Users/yangyige/Projects/BulkyWeb/Bulky.DataAccess/Bulky.DataAccess.csproj",
+  "projectFilePath": "/Users/yangyige/Documents/GitHub/BulkyWeb-mvc/Bulky.DataAccess/Bulky.DataAccess.csproj",
   "expectedPackageFiles": [
     "/Users/yangyige/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/yangyige/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",

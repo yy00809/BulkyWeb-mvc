@@ -13072,11 +13072,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/BulkyWeb.csproj",
+      "projectUniqueName": "/Users/yangyige/Documents/GitHub/BulkyWeb-mvc/BulkyWeb/BulkyWeb.csproj",
       "projectName": "BulkyWeb",
-      "projectPath": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/BulkyWeb.csproj",
+      "projectPath": "/Users/yangyige/Documents/GitHub/BulkyWeb-mvc/BulkyWeb/BulkyWeb.csproj",
       "packagesPath": "/Users/yangyige/.nuget/packages/",
-      "outputPath": "/Users/yangyige/Projects/BulkyWeb/BulkyWeb/obj/",
+      "outputPath": "/Users/yangyige/Documents/GitHub/BulkyWeb-mvc/BulkyWeb/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yangyige/.nuget/NuGet/NuGet.Config"
@@ -13091,14 +13091,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/yangyige/Projects/BulkyWeb/Bulky.DataAccess/Bulky.DataAccess.csproj": {
-              "projectPath": "/Users/yangyige/Projects/BulkyWeb/Bulky.DataAccess/Bulky.DataAccess.csproj"
+            "/Users/yangyige/Documents/GitHub/BulkyWeb-mvc/Bulky.DataAccess/Bulky.DataAccess.csproj": {
+              "projectPath": "/Users/yangyige/Documents/GitHub/BulkyWeb-mvc/Bulky.DataAccess/Bulky.DataAccess.csproj"
             },
-            "/Users/yangyige/Projects/BulkyWeb/Bulky.Models/Bulky.Models.csproj": {
-              "projectPath": "/Users/yangyige/Projects/BulkyWeb/Bulky.Models/Bulky.Models.csproj"
+            "/Users/yangyige/Documents/GitHub/BulkyWeb-mvc/Bulky.Models/Bulky.Models.csproj": {
+              "projectPath": "/Users/yangyige/Documents/GitHub/BulkyWeb-mvc/Bulky.Models/Bulky.Models.csproj"
             },
-            "/Users/yangyige/Projects/BulkyWeb/Bulky.Utility/Bulky.Utility.csproj": {
-              "projectPath": "/Users/yangyige/Projects/BulkyWeb/Bulky.Utility/Bulky.Utility.csproj"
+            "/Users/yangyige/Documents/GitHub/BulkyWeb-mvc/Bulky.Utility/Bulky.Utility.csproj": {
+              "projectPath": "/Users/yangyige/Documents/GitHub/BulkyWeb-mvc/Bulky.Utility/Bulky.Utility.csproj"
             }
           }
         }
